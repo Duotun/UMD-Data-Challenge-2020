@@ -36,4 +36,4 @@ We perform linear regression on the given dataset ([Model on the given data](htt
 
 ## Interactive Map
 
-We use Tableau for interactive data visualizations: [Interactive Map](https://github.com/CharlesPikachu/Games/tree/master/Game1).
+We use Tableau for interactive data visualizations: [Interactive Map](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/Book1.twb).
