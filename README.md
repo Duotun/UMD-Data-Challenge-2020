@@ -1,6 +1,10 @@
-# UMD Data Challenge 2020 - Ocean Cleanup
+# Ocean Cleanup - Data Challenge 2020 at UMD
+
+
 
 ## Team member: Kai Xu, Guanyu Bao, Cheng Chang, Duotun Wang
+
+
 
 
 
@@ -16,3 +20,20 @@ We further take external dataset into consideration, including multiple social a
 
 Based on the data mining and visualization results, we have provided detailed suggestions on which type of trash should be given most focus, what cleanup operations should be performed on specified place and cleanup types (e.g., land, watercraft and underwater), and finally, what we should do to arouse people’s awareness towards ocean garbage and to call on the public to participate more in CleanSwell’s activities.
 
+
+
+## Dataset
+
+After data cleaning, all the classified datasets that we use for this problem are included in [OceanCleanup - Dataset](https://github.com/CharlesPikachu/Games/tree/master/Game1).
+
+
+
+## Model
+
+We perform linear regression on the given dataset ([Model on the given data](https://github.com/CharlesPikachu/Games/tree/master/Game1)) and perform linear regression, random forest, and SVM to the external dataset ([Model on the external data](https://github.com/CharlesPikachu/Games/tree/master/Game1))to make comprehensive recommendations for the ocean cleanup operations. All the statistics output could be directly seen in the uploaded Jupyter Notebooks.
+
+
+
+## Interactive Map
+
+We use Tableau for interactive data visualizations: [Interactive Map](https://github.com/CharlesPikachu/Games/tree/master/Game1).
