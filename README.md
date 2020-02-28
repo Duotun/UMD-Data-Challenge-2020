@@ -24,13 +24,13 @@ Based on the data mining and visualization results, we have provided detailed su
 
 ## Dataset
 
-After [Data Cleaning](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/OceanCleanup-DataCleaning.ipynb), all the classified datasets that we use for this problem are included in [OceanCleanup - Dataset](https://github.com/Duotun/UMD-Data-Challenge-2020/tree/master/OceanCleanup - DataSet)).
+After [Data Cleaning](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/OceanCleanup-DataCleaning.ipynb), all the classified datasets that we use for this problem are included in [OceanCleanup - Dataset](https://github.com/Duotun/UMD-Data-Challenge-2020/tree/master/OceanCleanup%20-%20DataSet)).
 
 
 
 ## Model
 
-We perform linear regression on the given dataset ([Model on the given data](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/DataChallenge_Model.ipynb)) and perform linear regression, random forest, and SVM to the external dataset ([Model on the external data](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/DataChallenge_Model_Externel DataSet.ipynb))to make comprehensive recommendations for the ocean cleanup operations. All the statistics output could be directly seen in the uploaded Jupyter Notebooks.
+We perform linear regression on the given dataset ([Model on the given data](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/DataChallenge_Model.ipynb)) and perform linear regression, random forest, and SVM to the external dataset ([Model on the external data](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/DataChallenge_Model_Externel%20DataSet.ipynb)) to make comprehensive recommendations for the ocean cleanup operations. All the statistics output could be directly seen in the uploaded Jupyter Notebooks.
 
 
 
