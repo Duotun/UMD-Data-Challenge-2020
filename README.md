@@ -37,3 +37,9 @@ We perform linear regression on the given dataset ([Model on the given data](htt
 ## Interactive Map
 
 We use Tableau for interactive data visualizations: [Interactive Map](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Code/Book1.twb).
+
+
+
+## Presentation
+
+Our presentation is totally developed by [Prezi](https://prezi.com/view/ZKSyWnOMNEn0jUBzImpO/) and the [PDF](https://github.com/Duotun/UMD-Data-Challenge-2020/blob/master/Documentation/ArcGIS%20Online%20Documentation%20-%20UMD%20Libraries.pdf) version could be access.
